@@ -1,5 +1,5 @@
 {
-	"name": "image-import-repro",
+	"name": "repro-sveltekit-vercel-image-optimization",
 	"private": true,
 	"version": "0.0.1",
 	"type": "module",
@@ -16,7 +16,7 @@
 	"devDependencies": {
 		"@eslint/compat": "^1.2.5",
 		"@eslint/js": "^9.18.0",
-		"@sveltejs/adapter-auto": "^6.0.0",
+		"@sveltejs/adapter-vercel": "^5.8.1",
 		"@sveltejs/kit": "^2.22.0",
 		"@sveltejs/vite-plugin-svelte": "^6.0.0",
 		"eslint": "^9.18.0",
